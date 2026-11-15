@@ -1,2 +1,3 @@
 # .github
-The bived-apps organization profile.
+
+This repository holds the bived-apps organization profile.
