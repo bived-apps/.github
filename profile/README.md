@@ -1,5 +1,3 @@
-<p align="center"><img src="../assets/flower.png" width="160" alt="Maren among the roles"></p>
-
 <p align="center"><img src="../assets/wordmark.svg" width="280" alt="Bive"></p>
 
 **Agents write, you decide.**
