@@ -1,4 +1,4 @@
-<p align="center"><img src="../assets/wordmark.svg" width="280" alt="Bive"></p>
+<p align="center"><img src="../assets/bived.svg" width="280" alt="Bived, the organisation's name traced by the Bive team: the B of violet delegates, then i, v, e and d with teal advisors and amber coordinators among them, and the owner as the dot of the i"></p>
 
 **Agents write, you decide.**
 
